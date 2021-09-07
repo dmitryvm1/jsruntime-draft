@@ -8,7 +8,7 @@ edition = "2018"
 [dependencies]
 
 [dependencies.quickrs]
-path = "../../quickrs"
+git = "https://github.com/buypal/quickrs"
 default-features = false
 features = ["exports", "loader"]
 
