@@ -1,0 +1,1 @@
+wasirun --dir=./react-dom/ ../target/wasm32-wasi/debug/quickjs_wasm.wasm
